@@ -1,0 +1,69 @@
+Baghdad
+HongKong
+Jerusalem
+Kabul
+LA
+Moscow
+Mumbai
+NY
+Paris
+Shanghai
+SF
+Taipei
+Tokyo
+#
+Jerusalem	1200
+Baghdad	280
+Tokyo	1
+#
+Shanghai	100
+Paris	1000
+#
+Taipei	680
+LA	100
+HongKong	500
+Baghdad	250
+#
+Paris	1500
+Baghdad	850
+#
+LA	670
+NY	300
+Baghdad	1990
+#
+Jerusalem	600
+Baghdad	450
+Moscow	1450
+#
+NY	800
+Baghdad	900
+Taipei	500
+#
+Kabul	400
+Baghdad	290
+NY	750
+Taipei	590
+#
+Moscow	900
+Baghdad	450
+Mumbai	700
+Taipei	600
+SF	87
+#
+Baghdad	250
+SF	1250
+NY	1200
+#
+LA	870
+Baghdad	550
+Tokyo	900
+#
+Jerusalem	1500
+LA	400
+NY	600
+#
+London	2000
+SF	3000
+Jerusalem	1000
+NY	4000
+#
